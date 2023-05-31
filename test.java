@@ -1,5 +1,4 @@
 
-//this is java class
 
 class Test{
 
